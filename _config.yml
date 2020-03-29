@@ -9,7 +9,6 @@
 title: 汪靖宁的博客
 brief-intro: 专注于后端，了解一些前端
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://www.fangzhipeng.com" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
